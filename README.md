@@ -1,6 +1,6 @@
 # stream
 
-A Stream example.
+A Stream example. Stream Architecture with StreamBuilder.
 
 ## Getting Started
 
